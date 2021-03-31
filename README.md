@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador douglas">
 
 <p align="left">
-  Olá meu nome é Douglas, sou desenvolvedor <strong>Full Stack</strong> e <strong> Certificado na metodologia SCRUM</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
+  Olá meu nome é Douglas, sou desenvolvedor <strong>Full Stack</strong> e <strong> Certificado na metodologia SCRUM</strong>.
 </p>
 
 <p align="left">
