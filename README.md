@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Bootstrap, ReactJS, Node, Typescript, PostgreSQL, oAuth, Docker, GraphQL, UI/UX Design.</strong>
+  🦄 Habilidades: <strong>HTML5, CSS3, JavaScript, Bootstrap, ReactJS, Node, Typescript, PostgreSQL, MySQL, GraphQL, UI/UX Design.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, PhotoShop, Figma, GitHub, Balsamiq.</strong>
+  💼 Ferramentas: <strong>VSCode, PhotoShop, Figma, GitHub, Balsamiq, Beekeeper, Insomnia.</strong>
 </p>
 
 <p align="left">
