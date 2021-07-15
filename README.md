@@ -95,7 +95,7 @@
   </div>
 
 </div>
-
+</br>
 <p align="left">
   💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
 </p>
@@ -111,5 +111,7 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/exudojazz/"/></a>
 </p>
 
+---
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+  
