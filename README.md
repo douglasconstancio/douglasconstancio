@@ -65,7 +65,7 @@
   </div>
 
   <div style="padding:10px 10px 10px 20px">
-    <p>🧐 Querendo aprender <i>(ta na fila)</i>: </p>
+    <p>🧐 Querendo aprender: </p>
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="50" />
 
