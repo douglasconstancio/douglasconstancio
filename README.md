@@ -1,25 +1,15 @@
 <img src="https://media.taringa.net/knn/identity/aHR0cHM6Ly9rNjAua24zLm5ldC90YXJpbmdhLzYvMy8xL0QvMS9GL3ZhZ29uZXR0YXMvRjA2LmdpZg" min-width="500px" max-width="500px" width="250px" align="right" alt="Computador douglas">
 
-## Olá 🌎 meu nome é Douglas,
+## Olá 🌎, meu nome é Douglas...
 
 <p align="left">
   sou desenvolvedor <strong>Full Stack</strong>, <strong>Software Engineer</strong> na <strong>MagratheaLabs</strong> e <strong> Certificado em metodologia SCRUM</strong>.
 </p>
 
-<p align="left">
-  🦄 Habilidades: <strong>HTML5, CSS3, JavaScript, Bootstrap, ReactJS, Node, Typescript, PostgreSQL, MySQL, GraphQL, UI/UX Design.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>VSCode, PhotoShop, Figma, GitHub, Balsamiq, Beekeeper, Insomnia.</strong>
-</p>
-
-</br>
-
-<div style="display:flex;background:#FFFFFF17;width:100%;border-radius:10px;">
+<div style="display:grid;background:#FFFFFF17;width:100%;border-radius:10px;">
 
   <div style="padding:10px 10px 10px 20px;">
-  <p>😎 Always learning: </p>
+  <p>🦄 Habilidades: </p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="50" />
 
@@ -49,34 +39,35 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="tesjqueryte" width="50" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="50" />
-
   <img src="https://svgshare.com/i/ZCA.svg" alt="cypress" width="50" />
 
-  <img src="https://img.utdstc.com/icon/17f/e66/17fe66f8fb8849248bd6dcf727c7447c03bda88285b31e19f4cafecec49afc9d:200" alt="balsamiq" width="50" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" />
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="50" />
+    
+  </div>
+
+  <div style="padding:10px 10px 10px 20px">
+  <p>💼 Ferramentas: </p>
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="50" />
+
+  <img src="https://img.utdstc.com/icon/17f/e66/17fe66f8fb8849248bd6dcf727c7447c03bda88285b31e19f4cafecec49afc9d:200" alt="balsamiq" width="50" />
 
   <img src="https://www.beekeeperstudio.io/assets/img/logos/bk-logo-yellow-icon-3761c77d1abf26d329e20e3b5cf05cabfa00fb9225054be62707b0693991d380.svg" alt="beekeeper" width="50" />
 
   <img src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" alt="insominia" width="50" />
-  </div>
-
-  <div style="padding:10px 10px 10px 20px">
-  <p>🤓 Learning: </p>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="50" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="50" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="50" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="50" />
-
   </div>
 
   <div style="padding:10px 10px 10px 20px">
-  <p>🧐 Wanting to learn: </p>
+    <p>🧐 Querendo aprender <i>(ta na fila)</i>: </p>
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="50" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" />
 
@@ -95,6 +86,7 @@
   </div>
 
 </div>
+  
 </br>
 <p align="left">
   💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
