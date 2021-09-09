@@ -89,7 +89,7 @@
   
 </br>
 <p align="left">
-  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
+  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem ⤵️
 </p>
 
 <p align="left">
