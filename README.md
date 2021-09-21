@@ -45,6 +45,8 @@
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="50" />
     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="50" />
+    
   </div>
 
   <div style="padding:10px 10px 10px 20px">
@@ -66,8 +68,6 @@
 
   <div style="padding:10px 10px 10px 20px">
     <p>🧐 Querendo aprender: </p>
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="50" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" />
 
