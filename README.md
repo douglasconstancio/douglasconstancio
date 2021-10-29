@@ -3,7 +3,7 @@
 ## Olá 🌎, meu nome é Douglas...
 
 <p align="left">
-  sou desenvolvedor <strong>Full Stack</strong>, <strong>Software Engineer</strong> na <strong>MagratheaLabs</strong> e <strong> Certificado em metodologia SCRUM</strong>.
+  sou desenvolvedor <strong>Full Stack</strong>, <strong>Software Engineer</strong> na <strong>MagratheaLabs</strong> e <strong> Certificado em metodologia SCRUM e estudando metodologia ágil constantemente na Software Zen</strong>.
 </p>
 
 <div style="display:grid;background:#FFFFFF17;width:100%;border-radius:10px;">
