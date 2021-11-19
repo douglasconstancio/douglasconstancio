@@ -1,4 +1,4 @@
-<img src="https://media.taringa.net/knn/identity/aHR0cHM6Ly9rNjAua24zLm5ldC90YXJpbmdhLzYvMy8xL0QvMS9GL3ZhZ29uZXR0YXMvRjA2LmdpZg" min-width="500px" max-width="500px" width="250px" align="right" alt="Computador douglas">
+<img src="https://64.media.tumblr.com/059c5c6858ba200e7ec2f637bfd44428/tumblr_nzlh474yRf1u6w1edo6_250.gifv" min-width="400px" max-width="400px" width="150px" align="right" alt="Computador douglas">
 
 ## Olá 🌎, meu nome é Douglas...
 
