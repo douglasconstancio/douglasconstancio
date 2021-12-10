@@ -1,15 +1,15 @@
 <img src="https://64.media.tumblr.com/059c5c6858ba200e7ec2f637bfd44428/tumblr_nzlh474yRf1u6w1edo6_250.gifv" min-width="400px" max-width="400px" width="150px" align="right" alt="Computador douglas">
 
-## Olá 🌎, meu nome é Douglas...
+## Hello 🌎, my name is Douglas...
 
 <p align="left">
-  sou desenvolvedor <strong>Full Stack</strong>, <strong>Software Engineer</strong> na <strong>MagratheaLabs</strong> e <strong> Certificado em metodologia SCRUM e estudando metodologia ágil constantemente na Software Zen</strong>.
+  i'm <i>Full Stack</i> developer, <strong>Software Engineer</strong> at <strong>MagratheaLabs</strong> and <strong> Certified in SCRUM methodology and studying agile methodology constantly at Software Zen.</strong>.
 </p>
 
 <div style="display:grid;background:#FFFFFF17;width:100%;border-radius:10px;">
 
   <div style="padding:10px 10px 10px 20px;">
-  <p>🦄 Habilidades: </p>
+  <p>🦄 Skills: </p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="50" />
 
@@ -50,7 +50,7 @@
   </div>
 
   <div style="padding:10px 10px 10px 20px">
-  <p>💼 Ferramentas: </p>
+  <p>💼 Tools: </p>
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="50" />
 
@@ -67,7 +67,7 @@
   </div>
 
   <div style="padding:10px 10px 10px 20px">
-    <p>🧐 Querendo aprender: </p>
+    <p>🧐 Wanting to learn: </p>
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="50" />
     
@@ -87,7 +87,10 @@
   
 </br>
 <p align="left">
-  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem ⤵️
+  💌 If you want to carry out a project with me (or chat), don't hesitate to send me a message ⤵️
+</p>
+<p align="left">
+  ℹ️ Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem ⤵️
 </p>
 
 <p align="left">
