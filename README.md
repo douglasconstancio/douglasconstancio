@@ -3,7 +3,7 @@
 ## Hello 🌎, my name is Douglas...
 
 <p align="left">
-  i'm <i>Full Stack</i> developer, <strong>Software Engineer</strong> at <strong>MagratheaLabs</strong> and <strong> Certified in SCRUM methodology and studying agile methodology constantly at Software Zen.</strong>.
+  I'm <i>Full Stack</i> developer, <strong>Software Engineer</strong> at <strong>MagratheaLabs</strong> and <strong> Certified in SCRUM methodology and studying agile methodology constantly at Software Zen.</strong>
 </p>
 
 <div style="display:grid;background:#FFFFFF17;width:100%;border-radius:10px;">
