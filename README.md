@@ -8,7 +8,6 @@
 
 <div style="display:grid;background:#FFFFFF17;width:100%;border-radius:10px;">
 
-  <div style="padding:10px 10px 10px 20px;">
   <p>🦄 Skills: </p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="50" />
@@ -46,12 +45,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="50" />
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="50" />
-    
-  </div>
-  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasconstancio&layout=compact&langs_count=7&theme=radical" align="right" alt="sup"/>
 
   <div style="padding:10px 10px 10px 20px">
+    
+  <br>
+    
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasconstancio&layout=compact&langs_count=7&theme=radical" align="right" alt="sup"/>
   <p>💼 Tools: </p>
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="50" />
@@ -67,9 +66,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="50" />
 
   </div>
-
-  <div style="padding:10px 10px 10px 20px">
-    <p>🧐 Wanting to learn: </p>
+  
+  <br>
+  
+  <p>🧐 Wanting to learn: </p>
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="50" />
     
@@ -82,8 +82,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="50" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" />
-
-  </div>
 
 </div>
 
