@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/059c5c6858ba200e7ec2f637bfd44428/tumblr_nzlh474yRf1u6w1edo6_250.gifv" min-width="400px" max-width="400px" width="150px" align="right" alt="Computador douglas">
+<img src="https://64.media.tumblr.com/059c5c6858ba200e7ec2f637bfd44428/tumblr_nzlh474yRf1u6w1edo6_250.gifv" min-width="400px" max-width="400px" width="150px" align="right" alt="sup">
 
 ## Hello 🌎, my name is Douglas...
 
@@ -48,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="50" />
     
   </div>
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasconstancio&layout=compact&langs_count=7&theme=radical" align="right" alt="sup"/>
 
   <div style="padding:10px 10px 10px 20px">
   <p>💼 Tools: </p>
@@ -84,8 +86,13 @@
   </div>
 
 </div>
+
+ <div>
   
+ <div>
+   
 </br>
+  
 <p align="left">
   💌 If you want to carry out a project with me (or chat), don't hesitate to send me a message ⤵️
 </p>
