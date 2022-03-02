@@ -3,7 +3,12 @@
 ## Hello 🌎, my name is Douglas...
 
 <p align="left">
-  I'm <i>Full Stack</i> developer, <strong>Software Engineer</strong> at <strong>MagratheaLabs</strong> and <strong> Certified in SCRUM methodology </strong> and studied agile methodology at <strong>Software Zen.</strong>
+  I'm <i>Full Stack</i> developer, <strong>Software Engineer</strong> at <strong>MagratheaLabs</strong>, <strong> Certified in SCRUM methodology </strong> and I studied agile methodology at <strong>Software Zen.</strong>
+</p>
+
+
+<p align="left">
+  Eu sou desenvolvedor <i>Full Stack</i>, <strong>Engenheiro de Software</strong> na <strong>MagratheaLabs</strong>, <strong> Certificado na metodologia SCRUM  </strong> e estudei metodologia ágil na <strong>Software Zen.</strong>
 </p>
 
 <div style="display:grid;background:#FFFFFF17;width:100%;border-radius:10px;">
@@ -92,7 +97,7 @@
 </br>
   
 <p align="left">
-  💌 If you want to carry out a project with me (or chat), don't hesitate to send me a message ⤵️
+  ℹ️ If you want to carry out a project with me (or chat), don't hesitate to send me a message ⤵️
 </p>
 <p align="left">
   ℹ️ Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem ⤵️
