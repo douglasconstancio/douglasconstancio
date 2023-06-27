@@ -46,18 +46,22 @@
   <img src="https://svgshare.com/i/ZCA.svg" alt="cypress" width="50" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" />
-    
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="50" />
-    
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="50" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="50" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="rails" width="50" />
+
   <div style="padding:10px 10px 10px 20px">
-    
+
   <br>
-    
+
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasconstancio&layout=compact&langs_count=7&theme=radical" align="right" alt="sup"/>
   <p>💼 Tools: </p>
-    
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="50" />
 
   <img src="https://img.utdstc.com/icon/17f/e66/17fe66f8fb8849248bd6dcf727c7447c03bda88285b31e19f4cafecec49afc9d:200" alt="balsamiq" width="50" />
@@ -71,14 +75,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="50" />
 
   </div>
-  
+
   <br>
-  
+
   <p>🧐 Wanting to learn: </p>
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="50" />
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="rails" width="50" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" />
 
@@ -91,11 +91,11 @@
 </div>
 
  <div>
-  
+
  <div>
-   
+
 </br>
-  
+
 <p align="left">
   ℹ️ If you want to carry out a project with me (or chat), don't hesitate to send me a message ⤵️
 </p>
@@ -117,4 +117,4 @@
 ---
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-  
+
