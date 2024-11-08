@@ -66,8 +66,6 @@
 
   <img src="https://img.utdstc.com/icon/17f/e66/17fe66f8fb8849248bd6dcf727c7447c03bda88285b31e19f4cafecec49afc9d:200" alt="balsamiq" width="50" />
 
-  <img src="https://www.beekeeperstudio.io/assets/img/logos/bk-logo-yellow-icon-3761c77d1abf26d329e20e3b5cf05cabfa00fb9225054be62707b0693991d380.svg" alt="beekeeper" width="50" />
-
   <img src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" alt="insominia" width="50" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="50" />
